@@ -1,0 +1,15 @@
+# Roblox / Studio files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# Node / tooling
+node_modules/
